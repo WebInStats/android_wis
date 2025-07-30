@@ -1,2 +1,2 @@
 install:
-  mvn install:install-file -Dfile="android_wis.aar" -DgroupId=webinstats.android_wis -DartifactId=android_wis -Dversion=3.0.65 -Dpackaging=aar -DpomFile=pom.xml
+  mvn install:install-file -Dfile="android_wis.aar" -DgroupId=webinstats.android_wis -DartifactId=android_wis -Dversion=3.0.67 -Dpackaging=aar -DpomFile=pom.xml
